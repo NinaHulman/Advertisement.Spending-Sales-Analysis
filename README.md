@@ -1,2 +1,2 @@
 # Advertisement.Spending-Sales-Analysis
-analysing data on sale and advertisement spending using statistics in python
+analysing data on sales and advertisement spending using statistics in python
